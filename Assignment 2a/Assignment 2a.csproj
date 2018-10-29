@@ -75,6 +75,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Resources\4rp1" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -84,6 +85,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\3rp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5rp.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
